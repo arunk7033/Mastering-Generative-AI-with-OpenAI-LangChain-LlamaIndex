@@ -1,4 +1,6 @@
 # Mastering-Generative-AI-with-OpenAI-LangChain-LlamaIndex
 
-## Text Summmarization using huggingface google pegasus model and samsum dataset
-   - *We have finetuned huggingface google pegasus model and evaluated using samsum dataset for text summarization*
+## [Text Summarization with Huggingface transformers](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_1.ipynb)
+   - *Finetuned pretrained google pegasus model utilising huggingface transformers and evaluated using samsum dataset for text summarization purpose .*
+
+
